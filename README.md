@@ -90,11 +90,7 @@ Excel file containing:
 
 References
 * Society of Manufacturers of Electric Vehicles (SMEV)
-
 * EV Magazine
-
 * EV Reporter
-
 * IndiaMART – Electric Vehicle Motors
-
 * ACKO – Motor Vehicles Act
