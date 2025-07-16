@@ -23,78 +23,78 @@ Detailed report covering:
 
 * Competitor analysis
 
-My_EV_Sheet.xlsx
+* # My_EV_Sheet.xlsx
 Excel file containing:
 
-Market sizing calculations (Top-down, bottom-up, segmentation)
+* Market sizing calculations (Top-down, bottom-up, segmentation)
 
-Sales data for key OEMs
+* Sales data for key OEMs
 
-Price benchmarking
+* Price benchmarking
 
-Market share tables
+* Market share tables
 
-Customer segmentation data for strategic decisions
+* Customer segmentation data for strategic decisions
 
-Key Insights
+# Key Insights
 # Market Sizing Approaches:
 
-Top-Down: Estimating market size from macro-level industry data.
+* Top-Down: Estimating market size from macro-level industry data.
 
-Bottom-Up: Aggregating individual manufacturer sales for precise estimates.
+* Bottom-Up: Aggregating individual manufacturer sales for precise estimates.
 
-Segmentation: Analysis by geography, vehicle type, and customer demographics.
+* Segmentation: Analysis by geography, vehicle type, and customer demographics.
 
-Surveys & Interviews: Collected insights from OEMs, dealers, and customers.
+* Surveys & Interviews: Collected insights from OEMs, dealers, and customers.
 
 # Price Benchmarking:
 
-Hub-drive traction motors priced ~ ₹8,000.
+* Hub-drive traction motors priced ~ ₹8,000.
 
-Mid-drive traction motors priced ~ ₹12,000.
+* Mid-drive traction motors priced ~ ₹12,000.
 
-Motor costs typically ~8–12% of total EV cost.
+* Motor costs typically ~8–12% of total EV cost.
 
 # Technology Trends:
 
-Shift from hub-drive to mid-drive motors for better efficiency and performance.
+* Shift from hub-drive to mid-drive motors for better efficiency and performance.
 
-Growing interest in rare-earth-free magnets to reduce dependency on imports.
+* Growing interest in rare-earth-free magnets to reduce dependency on imports.
 
-Focus on improved heat dissipation and torque delivery in motor design.
+* Focus on improved heat dissipation and torque delivery in motor design.
 
 # Customer Segmentation:
 
-Primary: Ampere, BGAUSS, Hero Electric, OKAYA EV.
+* Primary: Ampere, BGAUSS, Hero Electric, OKAYA EV.
 
-Secondary: Battre Electric, Kinetic Green, Revolt.
+* Secondary: Battre Electric, Kinetic Green, Revolt.
 
-Tertiary: TVS, OLA Electric, Okinawa, Bajaj, Ather.
+* Tertiary: TVS, OLA Electric, Okinawa, Bajaj, Ather.
 
 # Competitor Landscape:
 
-Detailed analysis of OEMs and motor manufacturers.
+* Detailed analysis of OEMs and motor manufacturers.
 
-Mapped market share data from 2021 to 2023.
+* Mapped market share data from 2021 to 2023.
 
-Identified strategic opportunities for market entry and differentiation.
+* Identified strategic opportunities for market entry and differentiation.
 
-Strategic Recommendations
-Focus on mid-drive motors to capture growing market demand and higher revenue potential.
+# Strategic Recommendations
+* Focus on mid-drive motors to capture growing market demand and higher revenue potential.
 
-Invest in rare-earth-free technologies for cost stability and supply chain security.
+* Invest in rare-earth-free technologies for cost stability and supply chain security.
 
-Target high-volume OEMs for initial traction in the market.
+* Target high-volume OEMs for initial traction in the market.
 
-Align product development with emerging trends like advanced composites and improved motor cooling.
+* Align product development with emerging trends like advanced composites and improved motor cooling.
 
 References
-Society of Manufacturers of Electric Vehicles (SMEV)
+* Society of Manufacturers of Electric Vehicles (SMEV)
 
-EV Magazine
+* EV Magazine
 
-EV Reporter
+* EV Reporter
 
-IndiaMART – Electric Vehicle Motors
+* IndiaMART – Electric Vehicle Motors
 
-ACKO – Motor Vehicles Act
+* ACKO – Motor Vehicles Act
